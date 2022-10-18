@@ -297,11 +297,11 @@ module.exports = {
         let code;
         let out = authorized;
         console.log('BACK FROM AUTH', error, authorized);
-        if (error && error.lde_message) {
-          out.detail = error.lde_message;
-          out.message = String(error.stack).split(':')[0];
-          error = undefined;
-        }
+        // if (error && error.lde_message) {
+        //   out.detail = error.lde_message;
+        //   out.message = String(error.stack).split(':')[0];
+        //   error = undefined;
+        // }
         if (error) {
           /* istanbul ignore next */
           return reject(error);

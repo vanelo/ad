@@ -1,6 +1,6 @@
 {
-  "name": "ad",
-  "version": "0.3.2",
+  "name": "ad2",
+  "version": "0.0.1",
   "description": "Active Directory API for Node",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "easy",
     "chainable"
   ],
-  "author": "dthree",
+  "author": "vanelo",
   "license": "MIT",
   "dependencies": {
     "activedirectory": "^0.7.2",

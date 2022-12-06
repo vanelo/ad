@@ -1,6 +1,7 @@
 # AD
 ## Description
-This is an adaptation of https://www.npmjs.com/package/ad to unmute errors of authentications
+**Info: This is an adaptation of https://www.npmjs.com/package/ad to unmute errors of authentications**
+
 > Making Active Directory jQuery-easy.
 
 ---

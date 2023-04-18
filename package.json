@@ -1,6 +1,6 @@
 {
   "name": "adv2",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Active Directory API for Node",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   "author": "dthree",
   "license": "MIT",
   "dependencies": {
-    "activedirectory": "^0.7.2",
-    "ldapjs": "^1.0.1",
+    "activedirectory": "0.7.2",
+    "ldapjs": "1.0.1",
     "lodash.orderby": "^4.6.0",
     "node-ssha256": "^0.1.1"
   },
